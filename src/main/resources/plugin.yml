@@ -1,0 +1,5 @@
+name: UckyElytraFly
+version: '${version}'
+main: xyz.uckystudio.uckyelytrafly.UckyElytraFly
+commands:
+  fly:
